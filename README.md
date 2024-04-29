@@ -1,7 +1,8 @@
-# BCD_7SEGMENT
-![image](https://github.com/RESMIRNAIR/BCD_7SEGMENT/assets/154305926/804ab8db-8637-45ac-b10f-80e77d818d61)
+
 # AIM
 To design and simulate BCD 7 Segment using vivado.
+# BCD_7SEGMENT
+![image](https://github.com/RESMIRNAIR/BCD_7SEGMENT/assets/154305926/804ab8db-8637-45ac-b10f-80e77d818d61)
 # SOFTWARE REQUIRED
 Vivado 2023.2 software.
 # PROCEDURE
